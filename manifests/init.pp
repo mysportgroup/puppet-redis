@@ -41,7 +41,7 @@ class redis (
   $conf_syslog_enabled    = UNSET,
   $conf_syslog_ident      = UNSET,
   $conf_syslog_facility   = UNSET,
-  $conf_databases         = '16',
+  $conf_databases         = '30',
   $conf_save              = UNSET,
   $conf_nosave            = UNSET,
   $conf_rdbcompression    = 'yes',
